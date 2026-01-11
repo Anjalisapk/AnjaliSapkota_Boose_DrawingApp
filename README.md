@@ -98,7 +98,7 @@ These tests ensure that the main drawing workflow—moving the pen, drawing line
 ### Main Application
 - [Form](Form.html)  
 - [AppCanvas](AppCanvas.html)  
-- [VariablesStore](VariablesStore.html)  
+- [VariablesStore](VariableStore.html)  
 - [SimpleParser](SimpleParser.html)  
 - [MyCommandFactory](MyCommandFactory.html)  
 
