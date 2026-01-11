@@ -146,6 +146,3 @@ These tests ensure that the main drawing workflow—moving the pen, drawing line
 - [WhileCommandTests](UnitTesting/WhileCommandTests.html)  
 
  **Note:** Each link points to the HTML documentation file generated from XML comments in the project. Open the links in a browser to view detailed documentation of each class or command.
-
-
-## File Structure
